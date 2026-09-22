@@ -1,0 +1,22 @@
+import java.util.*;
+public class Main{
+	public static viod main{
+		Scanner Sc=new Scanner(System.in);
+		int a=sc.nextInt()
+		float a=sc.nextFloat();
+		byte b=sc.nextByte();
+		short sh=sc.nextShort();
+		char ch=sc.nextChar();
+		Boolean bool=sc.nextBoolean();
+		double d=sc.nextDouble();
+		String st=sc.nextline();
+		System.out.println("intger:" + i);
+		System.out.println("float:" + f);
+		System.out.println("byte:" + b);
+		System.out.println("short:" + sh);		
+		System.out.println("char:" + ch);
+		System.out.println("Boolean:" + bool);
+		System.out.println("double:" + d);
+		System.out.println("string:" + st);
+}
+}			
